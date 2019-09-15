@@ -1,1 +1,1 @@
-Game chess with various AI levels.
+Game chess with 4 AI levels.
